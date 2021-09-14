@@ -1,0 +1,7 @@
+{
+    "DbHost": "localhost",
+    "DbDatabase": "userdb",
+    "DbPort":  3306,
+    "DbUserId": "root",
+    "DbPassword": "%lhJqJU&C5k2R6zu"
+}
