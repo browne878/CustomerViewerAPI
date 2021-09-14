@@ -10,17 +10,20 @@
   - [POST Request]()
   - [PUT Request]()
   - [DELETE Request]()
+- [POSTMAN Collection]()
 
 ## Creating the Database
 
 
 
-## Starting the API
-
-
-
 ## Preparing the API
+To begin, download the [this]() file. You will then want to configure the [Config File]() with the database information from the previous section.
 
+
+## Starting the API
+Once the API has been prepared then all you have to do is run the [CustomerViewerAPI]() application you dowloaded and the API will be running.
+
+You can exit the application with `CTRL+C` while the console is selected.
 
 
 ## Requests
@@ -68,3 +71,11 @@ in the body of the DELETE.
 ```
 https://localhost:5001/customer/api/customers
 ```
+
+## POSTMAN Collection
+
+I have compiled a list of useful request which can be easily accessed.
+
+I have also included a POST request to allow you to populate the database with 10 customers to allow you to test the API is working correctly.
+
+The collection is availible [here]().
