@@ -124,4 +124,4 @@ I have compiled a list of useful request which can be easily accessed.
 
 I have also included a POST request to allow you to populate the database with 10 customers to allow you to test the API is working correctly.
 
-The collection is availible [here]().
+You can import the collection with this [file](CustomerViewerAPI_Collection.json).
