@@ -69,7 +69,7 @@ A DELETE request will remove a customer from the database. This can be done by m
 in the body of the DELETE.
 
 ```
-https://localhost:5001/customer/api/customers
+https://localhost:5001/customer/api/customers/{ID}
 ```
 
 ## POSTMAN Collection
